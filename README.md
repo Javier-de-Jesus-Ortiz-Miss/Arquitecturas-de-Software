@@ -11,7 +11,7 @@
 
 | NOMBRES                           | FOTO                                                                                            |
 | --------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Javier de Jesús Ortiz Miss        | <img src="./assets/img/profile_pictures/tunombre.jpg" width="30%" alt="fotoortiz"/>             |
+| Javier de Jesús Ortiz Miss        | <img src="./assets/img/profile_pictures/ortizJavier.jpeg" width="30%" alt="fotoortiz"/>             |
 | José Antonio Polanco Oxté         | <img src="./assets/img/profile_pictures/polancoJose.jpg" width="30%" alt="fotopolanco"/>        |
 | Héctor Alejandro Barrera Carrillo | <img src="./assets/img/profile_pictures/tunombre.jpg" width="30%" alt="fotobarrera"/>           |
 | Daniela Villarino Budip           | <img src="./assets/img/profile_pictures/villarinoDaniela.jpg" width="30%" alt="fotovillarino"/> |
