@@ -1,26 +1,27 @@
 # Arquitecturas-de-Software
 
 ## Integrantes del equipo
-- **Javier de Jesús Ortiz Miss**  
-- **José Antonio Polanco Oxté**  
-- **Héctor Alejandro Barrera Carrillo**  
-- **Daniela Villarino Budip**  
+
+-   **Javier de Jesús Ortiz Miss**
+-   **José Antonio Polanco Oxté**
+-   **Héctor Alejandro Barrera Carrillo**
+-   **Daniela Villarino Budip**
 
 ## Presentación del equipo
 
-| NOMBRES | FOTO |
-|---------|------|
-| Javier de Jesús Ortiz Miss | ![fotojavi](urlfoto) |
-| José Antonio Polanco Oxté | ![fotopolanco](urlfoto)  |
-| Héctor Alejandro Barrera Carrillo | ![fotohector](urlfoto) |
-| Daniela Villarino Budip | ![Foto de Daniela Villarino](./assets/img/profile_pictures/villarinoDaniela.jpg) |
+| NOMBRES                           | FOTO                                                                                            |
+| --------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Javier de Jesús Ortiz Miss        | <img src="./assets/img/profile_pictures/tunombre.jpg" width="30%" alt="fotoortiz"/>             |
+| José Antonio Polanco Oxté         | <img src="./assets/img/profile_pictures/polancoJose.jpg" width="30%" alt="fotopolanco"/>        |
+| Héctor Alejandro Barrera Carrillo | <img src="./assets/img/profile_pictures/tunombre.jpg" width="30%" alt="fotobarrera"/>           |
+| Daniela Villarino Budip           | <img src="./assets/img/profile_pictures/villarinoDaniela.jpg" width="30%" alt="fotovillarino"/> |
 
 ---
 
 ## Organización de entregas
+
 Cada entrega está organizada en carpetas dentro del repositorio:
 
-- [Entrega 1](./Entregas/Entrega1/)
+-   [Entrega 1](./Entregas/Entrega1/)
 
 ---
-
