@@ -9,12 +9,12 @@
 
 ## Presentación del equipo
 
-| NOMBRES                           | FOTO                                                                             |
-| --------------------------------- | -------------------------------------------------------------------------------- |
-| Javier de Jesús Ortiz Miss        | ![fotojavi](urlfoto)                                                             |
-| José Antonio Polanco Oxté         | ![fotopolanco](./assets/img/profile_pictures/polancoJose.jpg)                    |
-| Héctor Alejandro Barrera Carrillo | ![fotohector](urlfoto)                                                           |
-| Daniela Villarino Budip           | ![Foto de Daniela Villarino](./assets/img/profile_pictures/villarinoDaniela.jpg) |
+| NOMBRES                           | FOTO                                                                                            |
+| --------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Javier de Jesús Ortiz Miss        | <img src="./assets/img/profile_pictures/tunombre.jpg" width="30%" alt="fotoortiz"/>             |
+| José Antonio Polanco Oxté         | <img src="./assets/img/profile_pictures/polancoJose.jpg" width="30%" alt="fotopolanco"/>        |
+| Héctor Alejandro Barrera Carrillo | <img src="./assets/img/profile_pictures/tunombre.jpg" width="30%" alt="fotobarrera"/>           |
+| Daniela Villarino Budip           | <img src="./assets/img/profile_pictures/villarinoDaniela.jpg" width="30%" alt="fotovillarino"/> |
 
 ---
 
