@@ -18,7 +18,7 @@ Para contribuir al proyecto, se deben seguir los siguientes pasos:
 6. Asignar revisores al PR para que puedan revisar los cambios realizados.
 7. Esperar la revisión y aprobación de los cambios por parte de los revisores.
 8. Una vez aprobado, se puede hacer merge del PR a la rama principal.
-9. Eliminar la rama de desarrollo sí ya no es necesaria.
+9. Eliminar la rama de desarrollo si ya no es necesaria.
 10. Actualizar la rama principal en el entorno local para tener los últimos cambios.
 11. Repetir el proceso para nuevas tareas o funcionalidades.
 
@@ -54,6 +54,6 @@ En la descripción se debe incluir una breve descripción del cambio o actualiza
 
 ## Reglas para pull requests
 
-1. **Revisión de Código**: Todo PR debe ser revisado por al menos dos miembro del equipo antes de ser fusionado.
+1. **Revisión de Código**: Todo PR debe ser revisado por al menos dos miembros del equipo antes de ser fusionado.
 2. **Eliminación de contenido en main**: No se permite eliminar contenido en la rama principal sin una justificación válida y la aprobación del equipo.
 3. **Conflictos de Fusión**: Si hay conflictos de fusión, el responsable del PR debe resolverlos antes de la revisión.
