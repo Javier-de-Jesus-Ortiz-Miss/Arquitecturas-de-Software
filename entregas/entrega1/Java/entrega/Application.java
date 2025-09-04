@@ -1,5 +1,5 @@
 package entrega;
-
+import java.util.List;
 public class Application {
     public Reader reader;
     public NameSorter nameSorter;
@@ -12,9 +12,9 @@ public class Application {
         formatter = new Formatter();
         visualizer = new Visualizer();
 
-        List<String> names = reader.read("names.txt");
+        List<String> names = reader.readDocument("names.txt");
         List<String> sortedNames = nameSorter.sort(names);
-        List<String> formattedNames = formatter.format(sortedNames);
+        List<String> formattedNames = formatter.applyFormat(sortedNames);
         visualizer.showResults(formattedNames);
     }
 }
