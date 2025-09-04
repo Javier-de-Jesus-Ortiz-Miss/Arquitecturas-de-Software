@@ -18,6 +18,14 @@
 
 ---
 
+## Organización de entregas
+
+Cada entrega está organizada en carpetas dentro del repositorio:
+
+-   [Entrega 1](./Entregas/Entrega1/)
+
+---
+
 ## Organización de contribuciones y contenido
 
 Para una mejor organización del proyecto, se ha creado un archivo adicional llamado [Contribution.md](./assets/Docs/Contribution.md) que detalla las directrices para contribuir al repositorio, incluyendo la estructura de ramas, el proceso para realizar pull requests y las reglas a seguir para mantener la calidad del código y la colaboración efectiva entre los miembros del equipo.

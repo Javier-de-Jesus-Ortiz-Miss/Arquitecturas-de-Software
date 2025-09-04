@@ -18,7 +18,7 @@ Para contribuir al proyecto, se deben seguir los siguientes pasos:
 6. Asignar revisores al PR para que puedan revisar los cambios realizados.
 7. Esperar la revisión y aprobación de los cambios por parte de los revisores.
 8. Una vez aprobado, se puede hacer merge del PR a la rama principal.
-9. Eliminar la rama de desarrollo si ya no es necesaria.
+9. Eliminar la rama de desarrollo sí ya no es necesaria.
 10. Actualizar la rama principal en el entorno local para tener los últimos cambios.
 11. Repetir el proceso para nuevas tareas o funcionalidades.
 
