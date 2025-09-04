@@ -2,7 +2,7 @@
 
 ## Assets
 
-El fichero `Assets` tiene como proposito organizar todos los archivos, anexos y contenido de soporte para el repositorio.
+El fichero `Assets` tiene como propósito organizar todos los archivos, anexos y contenido de soporte para el repositorio.
 
 Con el paso del tiempo, se irán agregando ficheros como entregas, diagramas, imágenes, etc.
 
@@ -18,7 +18,7 @@ Para contribuir al proyecto, se deben seguir los siguientes pasos:
 6. Asignar revisores al PR para que puedan revisar los cambios realizados.
 7. Esperar la revisión y aprobación de los cambios por parte de los revisores.
 8. Una vez aprobado, se puede hacer merge del PR a la rama principal.
-9. Eliminar la rama de desarrollo si ya no es necesaria.
+9. Eliminar la rama de desarrollo sí ya no es necesaria.
 10. Actualizar la rama principal en el entorno local para tener los últimos cambios.
 11. Repetir el proceso para nuevas tareas o funcionalidades.
 
@@ -40,7 +40,6 @@ En la descripción se debe incluir el número de la entrega y una breve descripc
 -   `entrega2/implementacion-funcionalidad-x`
 -   `entrega3/correccion-bugs`
 -   `entrega4/documentacion-final`
--
 
 #### Docs
 
