@@ -7,9 +7,12 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class Reader{
-    public List<String> readDocument(String filePath) {
+
+	private static String path = "entregas/entrega1/Java/entrega/";
+
+    public List<String> readDocument(String fileName) {
         List<String> names = new ArrayList<>();
-        try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
+        try (BufferedReader br = new BufferedReader(new FileReader(path + fileName))) {
             String line;
 
             while ((line = br.readLine()) != null) {
@@ -18,7 +21,7 @@ public class Reader{
                 }
             }
         } catch (IOException e) {
-            System.out.println("Error al leer el archivo.");
+            System.out.println("Error al leer el archivo: " + e.getMessage());
         }
         return names;
     }
