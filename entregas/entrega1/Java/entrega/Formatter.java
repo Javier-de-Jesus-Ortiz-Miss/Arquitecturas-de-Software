@@ -1,7 +1,6 @@
 package entrega;
 import java.util.List;
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class Formatter {
     public List<String> applyFormat(List<String> names) {
