@@ -22,7 +22,7 @@
 
 Cada entrega está organizada en carpetas dentro del repositorio:
 
--   [Entrega 1](./Entregas/Entrega1/)
+-   [Entrega 1](./entregas/entrega1/)
 
 ---
 
